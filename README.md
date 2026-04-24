@@ -2495,6 +2495,9 @@ Now Claude can answer questions about writing MCP servers and how they work
 
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
+### Google Sheets
+- [BlackHawkMCP](https://github.com/000safah000-ai/BlackHawkMCP) 📇 ☁️ - MCP server connecting AI to Google Sheets. Read, write, and manage spreadsheets via natural language.
+
 ## Star History
 
 <a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
